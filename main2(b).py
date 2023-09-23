@@ -39,3 +39,5 @@ if __name__ == "__main__":
     t.add_player(p3)
     t.add_player(p4)
     t.add_player(p5)
+
+    t.get_players()
